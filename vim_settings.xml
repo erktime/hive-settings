@@ -1,0 +1,107 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1513365646354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/controllers/birthday.php" timestamp="1510955382901">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_view.php" timestamp="1510955912031">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="78" />
+        <mark key="^" line="43" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/models/activity_model.php" timestamp="1510956623484">
+        <mark key="'" line="71" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" timestamp="1510956479042">
+        <mark key="'" line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/controllers/time.php" timestamp="1513615143725">
+        <mark key="[" line="938" column="98" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/chat/js/libs/director.js" timestamp="1513615081944" />
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/helpers/log_helper.php" timestamp="1513279654597">
+        <mark key="[" line="140" column="106" />
+        <mark key="]" line="140" column="108" />
+        <mark key="^" line="140" column="108" />
+        <mark key="." line="140" column="108" />
+      </file>
+      <file name="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.html" timestamp="1510956298096">
+        <mark key="'" line="355" column="45" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/controllers/birthday.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/controllers/birthday.php" />
+      <jump line="14" column="15" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_view.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_view.php" />
+      <jump line="146" column="23" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.php" />
+      <jump line="379" column="6" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.php" />
+      <jump line="382" column="6" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.php" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.html" />
+      <jump line="355" column="45" filename="$USER_HOME$/Documents/gitCode/hive/application/views/birthday/birthday_email_template.html" />
+      <jump line="64" column="46" filename="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" />
+      <jump line="31" column="36" filename="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/gitCode/hive/application/views/about/db_difference.php" />
+      <jump line="71" column="15" filename="$USER_HOME$/Documents/gitCode/hive/application/models/activity_model.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkb2JqRW1haWwtPnNlbmRNYWlsKHNlbmQpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
